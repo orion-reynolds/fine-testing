@@ -1,0 +1,22 @@
+# Ignore compiled output
+coverage/
+test-report.html
+reports/
+eslint-report.html
+inspections/
+jsinspect-report.html
+jsinspect-report.txt
+dist/
+jest-stare-report/
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment variables file
+.env
+
+# Ignore documentation
+docs/
+
+# Orion's note
+orions_notes.txt
